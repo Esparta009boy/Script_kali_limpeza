@@ -1,10 +1,7 @@
 # Script_kali_limpeza
-Complemento do vídeo no youtube.
-
-# limpeza_kali_linux
 Script prático para limpeza de disco no Kali Linux. Recurso complementar do tutorial explicativo do meu canal no YouTube.
 
-# limpeza_kali_linux
+# Script_kali_limpeza
 Guia interativo sobre automação de limpeza de disco no Kali Linux
 
 ![Capa do Projeto](https://itforum.com.br/wp-content/uploads/2019/11/hacker.jpg)
@@ -20,7 +17,7 @@ Para fins educacionais, o projeto foi desenvolvido utilizando **Kali Linux** em 
 
 ## 🌐 Acesse o Repositório
 
-📎 [Clique aqui para visualizar o projeto no GitHub](https://github.com/Esparta009boy/limpeza_kali_linux)
+📎 [Clique aqui para visualizar o projeto no GitHub](https://github.com/Esparta009boy/Script_kali_limpeza)
 
 ---
 
@@ -54,5 +51,5 @@ Para fins educacionais, o projeto foi desenvolvido utilizando **Kali Linux** em 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Esparta009boy/limpeza_kali_linux.git
-   cd limpeza_kali_linux
+   git clone https://github.com/Esparta009boy/Script_kali_limpeza.git
+   cd Script_kali_limpeza
